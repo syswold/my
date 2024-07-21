@@ -2,11 +2,16 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,xvideo.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,x.com
+#DOMAIN-SUFFIX,browserscan.net
+#DOMAIN-SUFFIX,ipleak.net
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,1e100
+#DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,instagram
